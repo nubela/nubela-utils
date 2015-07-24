@@ -1,0 +1,9 @@
+Flask==0.10.1
+Flask-SQLAlchemy==2.0
+Jinja2==2.7.3
+MarkupSafe==0.23
+SQLAlchemy==0.9.8
+Unidecode==0.04.17
+Werkzeug==0.9.6
+#psycopg2==2.5.4
+requests==2.5.1

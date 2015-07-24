@@ -1,2 +1,4 @@
 .idea
 v_env
+cfg.pyc
+*.DS_Store
